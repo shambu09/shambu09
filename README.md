@@ -4,9 +4,9 @@
 
 - 🌱 I use **React and Node** to build web apps
 
-- 💬 Ask me about **Blockchain and AI**
+- 💬 Interested in AI, Distributed Computing and Cryptography 
 
-- :heart: TypeScript, Python and C++
+- :heart: TypeScript, Python and Java
 
 - 📫 How to reach me : **shambuvalasang@gmail.com**
 
