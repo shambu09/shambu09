@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shambu Valasang</h1>
-<h3 align="center">A passionate web developer and blockchain enthusiast</h3>
+<h3 align="center">A passionate software developer who's always learning</h3>
 
 
-- 🌱 I use **React and Node** to build web apps
+- 🌱 I use **NextJs** to build web apps
 
 - 💬 Interested in AI, Distributed Computing and Cryptography 
 
